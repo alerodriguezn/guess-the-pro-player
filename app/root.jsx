@@ -45,7 +45,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body className="h-screen bg-gradient-to-br from-rose-500 via-indigo-600 to-green-100">
+      <body className="bg-[#161b22]">
         <Outlet />
         <ScrollRestoration />
         <Scripts />
