@@ -4,7 +4,7 @@ const Login = () => {
 
 
   return (
-      <main className="max-w-3xl m-auto rounded-xl my-32 border-2 border-slate-600 shadow p-10">
+      <main className="max-w-xl m-auto rounded-xl my-32 border-2 border-slate-600 shadow p-10">
       <h1 className="text-center text-2xl font-bold text-white">Login</h1>
       <form className="mt-2 flex flex-col gap-2 items-center ">
         <div className="my-5">
